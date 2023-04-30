@@ -5,8 +5,11 @@
 # 🚀 My Expertise
 
 💻 Cloud Architecture (AWS, Azure, Google Cloud)
+
 🌐 Full-Stack Development (JavaScript, React, Node.js, .NET Core)
+
 🔒 Security (DevSecOps, Vulnerability Scanning, Penetration Testing)
+
 🤖 AI/ML Ops (Data Science, Machine Learning, Deep Learning)
 
 
