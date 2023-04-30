@@ -3,9 +3,13 @@ Hi there! 👋
 I'm Ganesh Chikhalikar, a Technical Lead with 6.7 Years of experience in AWS, Azure and GCP, DevOps, DevSecOps, development, AI, and ML. I'm passionate about Cloud and AI , and I love using my skills to solve real-world problems.
 
 🚀 My Expertise
+
 💻 Cloud Architecture (AWS, Azure, Google Cloud)
+
 🌐 Full-Stack Development (JavaScript, React, Node.js, .NET Core)
+
 🔒 Security (DevSecOps, Vulnerability Scanning, Penetration Testing)
+
 🤖 AI/ML Ops (Data Science, Machine Learning, Deep Learning)
 
 👨‍💻 Experience
