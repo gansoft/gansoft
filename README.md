@@ -14,7 +14,7 @@
 
 
 # 👨‍💻 Experience
-I have 6.7 Years of experience as a Technical Lead and have worked on several projects involving WS, Azure and GCP, DevOps, DevSecOps, development, AI, and ML. I'm passionate about Cloud and AI. As a technical lead, I have led teams of  25+ developers and provided technical direction to ensure project success.
+I have 6.7 Years of experience as a Technical Lead and have worked on several projects involving **AWS, Azure and GCP, DevOps, DevSecOps, development, AI, and ML**. I'm passionate about Cloud and AI. As a technical lead, I have led teams of  25+ developers and provided technical direction to ensure project success.
 
 
 # 🔨 Completed Projects
@@ -32,4 +32,5 @@ You can find some of my work samples on my portfolio website.
 
 # 📧 Contact Me
 Feel free to reach out to me at gansoft2020@gmail.com or connect with me on LinkedIn.
+
 
