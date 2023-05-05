@@ -33,8 +33,8 @@
 - Sonar Qube, Burp Suite, OWASP ZAP, DevSecOps, Vulnerability Scanning, Penetration Testing
 <br /> <br />
 
-🤖 AI/ML Ops
- Data Science, Machine Learning, Deep Learning
+🤖 AI/ML Ops 
+- Data Science, Machine Learning, Deep Learning
 <br /> <br />
 
 📅 Task Management
