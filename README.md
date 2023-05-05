@@ -5,14 +5,14 @@
 # 🚀 My Expertise
 
 
-☁ Cloud Technologies
-AWS, Azure, Google Cloud
+☁ Cloud Technologies 
+- AWS, Azure, Google Cloud
 
-☸Container / Orchestration
-Kubernetes, Docker, AKS, EKS, ECS, Fargate, Container Instance, Container Registry
+☸Container / Orchestration 
+- Kubernetes, Docker, AKS, EKS, ECS, Fargate, Container Instance, Container Registry
 
-💻 Cloud Tools
-Grafana, Loki, Prometheus, Elastic Search, Logstash, Kibana, KEDA, Azure Function, Lambda, Azure Logic App
+💻 Cloud Tools 
+- Grafana, Loki, Prometheus, Elastic Search, Logstash, Kibana, KEDA, Azure Function, Lambda, Azure Logic App
 
  ♾ CI/CD Tools
 Azure DevOps, GitHub, TFS, GitLab, Jenkins, GitHub Actions.
