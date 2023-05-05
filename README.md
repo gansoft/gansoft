@@ -4,13 +4,33 @@
 
 # 🚀 My Expertise
 
-💻 Cloud Architecture (AWS, Azure, Google Cloud)
 
-🌐 Full-Stack Development (JavaScript, React, Node.js, .NET Core)
+☁ Cloud Technologies
+AWS, Azure, Google Cloud
 
-🔒 Security (DevSecOps, Vulnerability Scanning, Penetration Testing)
+☸Container / Orchestration
+Kubernetes, Docker, AKS, EKS, ECS, Fargate, Container Instance, Container Registry
 
-🤖 AI/ML Ops (Data Science, Machine Learning, Deep Learning)
+💻 Cloud Tools
+Grafana, Loki, Prometheus, Elastic Search, Logstash, Kibana, KEDA, Azure Function, Lambda, Azure Logic App
+
+ ♾ CI/CD Tools
+Azure DevOps, GitHub, TFS, GitLab, Jenkins, GitHub Actions.
+
+🌐 Development
+ Microservices, .NET Core, LINQ, Entity Framework, React, HTML, CSS, JavaScript, JQuery, Node.js, Python
+
+🧊 Database
+Postgres SQL, Microsoft SQL, Cassandra, Elastic Search, Redis, Mongo DB, Cosmos DB, Dynamo DB
+
+🔒 Security 
+Sonar Qube, Burp Suite, OWASP ZAP, DevSecOps, Vulnerability Scanning, Penetration Testing
+
+🤖 AI/ML Ops
+ Data Science, Machine Learning, Deep Learning
+
+📅 Task Management
+Slack, Jira, Azure Boards, Kanban Boards, Zapier, Teams
 
 
 # 👨‍💻 Experience
