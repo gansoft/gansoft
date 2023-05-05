@@ -7,7 +7,7 @@
 
 ☁ Cloud Technologies 
 - AWS, Azure, Google Cloud 
-
+<br /><br />
 
 ☸Container / Orchestration 
 - Kubernetes, Docker, AKS, EKS, ECS, Fargate, Container Instance, Container Registry 
