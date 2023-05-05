@@ -6,25 +6,30 @@
 
 
 ☁ Cloud Technologies 
-- AWS, Azure, Google Cloud
+- AWS, Azure, Google Cloud 
+
 
 ☸Container / Orchestration 
-- Kubernetes, Docker, AKS, EKS, ECS, Fargate, Container Instance, Container Registry
+- Kubernetes, Docker, AKS, EKS, ECS, Fargate, Container Instance, Container Registry 
+
 
 💻 Cloud Tools 
-- Grafana, Loki, Prometheus, Elastic Search, Logstash, Kibana, KEDA, Azure Function, Lambda, Azure Logic App
+- Grafana, Loki, Prometheus, Elastic Search, Logstash, Kibana, KEDA, Azure Function, Lambda, Azure Logic App 
 
- ♾ CI/CD Tools
-Azure DevOps, GitHub, TFS, GitLab, Jenkins, GitHub Actions.
 
-🌐 Development
- Microservices, .NET Core, LINQ, Entity Framework, React, HTML, CSS, JavaScript, JQuery, Node.js, Python
+ ♾ CI/CD Tools 
+- Azure DevOps, GitHub, TFS, GitLab, Jenkins, GitHub Actions 
 
-🧊 Database
-Postgres SQL, Microsoft SQL, Cassandra, Elastic Search, Redis, Mongo DB, Cosmos DB, Dynamo DB
+🌐 Development 
+ - Microservices, .NET Core, LINQ, Entity Framework, React, HTML, CSS, JavaScript, JQuery, Node.js, Python 
+
+
+🧊 Database 
+- Postgres SQL, Microsoft SQL, Cassandra, Elastic Search, Redis, Mongo DB, Cosmos DB, Dynamo DB
+
 
 🔒 Security 
-Sonar Qube, Burp Suite, OWASP ZAP, DevSecOps, Vulnerability Scanning, Penetration Testing
+- Sonar Qube, Burp Suite, OWASP ZAP, DevSecOps, Vulnerability Scanning, Penetration Testing
 
 🤖 AI/ML Ops
  Data Science, Machine Learning, Deep Learning
