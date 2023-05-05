@@ -11,32 +11,35 @@
 
 ☸Container / Orchestration 
 - Kubernetes, Docker, AKS, EKS, ECS, Fargate, Container Instance, Container Registry 
-
+<br /> <br />
 
 💻 Cloud Tools 
 - Grafana, Loki, Prometheus, Elastic Search, Logstash, Kibana, KEDA, Azure Function, Lambda, Azure Logic App 
-
+<br /> <br />
 
  ♾ CI/CD Tools 
 - Azure DevOps, GitHub, TFS, GitLab, Jenkins, GitHub Actions 
+<br /> <br />
 
 🌐 Development 
  - Microservices, .NET Core, LINQ, Entity Framework, React, HTML, CSS, JavaScript, JQuery, Node.js, Python 
-
+<br /> <br />
 
 🧊 Database 
 - Postgres SQL, Microsoft SQL, Cassandra, Elastic Search, Redis, Mongo DB, Cosmos DB, Dynamo DB
-
+<br /> <br />
 
 🔒 Security 
 - Sonar Qube, Burp Suite, OWASP ZAP, DevSecOps, Vulnerability Scanning, Penetration Testing
+<br /> <br />
 
 🤖 AI/ML Ops
  Data Science, Machine Learning, Deep Learning
+<br /> <br />
 
 📅 Task Management
 Slack, Jira, Azure Boards, Kanban Boards, Zapier, Teams
-
+<br /> <br />
 
 # 👨‍💻 Experience
 I have 6.7 Years of experience as a Technical Lead and have worked on several projects involving **AWS, Azure and GCP, DevOps, DevSecOps, development, AI, and ML**. I'm passionate about Cloud and AI. As a technical lead, I have led teams of  25+ developers and provided technical direction to ensure project success.
