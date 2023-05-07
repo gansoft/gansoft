@@ -9,35 +9,35 @@
 - AWS, Azure, Google Cloud 
 <br /> <br />
 
-☸Container / Orchestration 
+### ☸Container / Orchestration 
 - Kubernetes, Docker, AKS, EKS, ECS, Fargate, Container Instance, Container Registry 
 <br /> <br />
 
-💻 Cloud Tools 
+### 💻 Cloud Tools 
 - Grafana, Loki, Prometheus, Elastic Search, Logstash, Kibana, KEDA, Azure Function, Lambda, Azure Logic App 
 <br /> <br />
 
- ♾ CI/CD Tools 
+### ♾ CI/CD Tools 
 - Azure DevOps, GitHub, TFS, GitLab, Jenkins, GitHub Actions 
 <br /> <br />
 
-🌐 Development 
+### 🌐 Development 
  - Microservices, .NET Core, LINQ, Entity Framework, React, HTML, CSS, JavaScript, JQuery, Node.js, Python 
 <br /> <br />
 
-🧊 Database 
+### 🧊 Database 
 - Postgres SQL, Microsoft SQL, Cassandra, Elastic Search, Redis, Mongo DB, Cosmos DB, Dynamo DB
 <br /> <br />
 
-🔒 Security 
+### 🔒 Security 
 - Sonar Qube, Burp Suite, OWASP ZAP, DevSecOps, Vulnerability Scanning, Penetration Testing
 <br /> <br />
 
-🤖 AI/ML Ops 
+### 🤖 AI/ML Ops 
 - Data Science, Machine Learning, Deep Learning
 <br /> <br />
 
-📅 Task Management
+### 📅 Task Management
 Slack, Jira, Azure Boards, Kanban Boards, Zapier, Teams
 <br /> <br />
 
