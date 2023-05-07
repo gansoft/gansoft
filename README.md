@@ -5,7 +5,7 @@
 # 🚀 My Expertise
 
 
-☁ Cloud Technologies 
+## ☁ Cloud Technologies 
 - AWS, Azure, Google Cloud 
 <br /> <br />
 
