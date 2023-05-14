@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+ <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png">
+ <img src="https://typograssy.deno.dev/api?text=GANESH.TECH&comment=Visit%20ganesh.tech%20for%20more%20details">
+  <img src="https://raw.githubusercontent.com/gansoft/gansoft/4a18e413c4df66de8e20cb7fbb88b749e09d5ff8/gitartwork.svg">
+  </p>
+<hr>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ganesh Chikhalikar</h1>
+<h3 align="center">Technical Lead | DevOps | DevSecOps | AI & ML Ops</h3>
+
 # Hi there! 👋
 
  I'm **Ganesh Chikhalikar**, a Technical Lead with 6.7 Years of experience in AWS, Azure and GCP, DevOps, DevSecOps, development, AI, and ML. I'm passionate about Cloud and AI , and I love using my skills to solve real-world problems.
