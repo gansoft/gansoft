@@ -1,12 +1,13 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
- <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png">
-  <img src="https://raw.githubusercontent.com/gansoft/gansoft/4a18e413c4df66de8e20cb7fbb88b749e09d5ff8/gitartwork.svg">
-  </p>
-<hr>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ganesh Chikhalikar</h1>
 <h3 align="center">Technical Lead |Cloud | DevOps | DevSecOps | AI & ML Ops</h3>
+<h1></h1>
+
+<hr style="background-color: #0056bb;height: 0.006em;">
+
 
 # Hi there! 👋
 
@@ -71,4 +72,8 @@ You can find some of my work samples on my portfolio website.
 # 📧 Contact Me
 Feel free to reach out to me at gansoft2020@gmail.com or connect with me on LinkedIn.
 
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png">
+  <img src="https://raw.githubusercontent.com/gansoft/gansoft/4a18e413c4df66de8e20cb7fbb88b749e09d5ff8/gitartwork.svg">
+  </p>
 
