@@ -6,7 +6,7 @@
 <h3 align="center">Technical Lead |Cloud | DevOps | DevSecOps | AI & ML Ops</h3>
 <h1></h1>
 
-<hr style="background-color: #0056bb;height: 0.006em;">
+<hr style="background-color: #0056bb important; height: 0.006em important;">
 
 
 # Hi there! 👋
