@@ -9,7 +9,7 @@
 
 # Hi there! 👋
 
- I'm **Ganesh Chikhalikar**, a Technical Lead with 6.7 Years of experience in AWS, Azure and GCP, DevOps, DevSecOps, development, AI, and ML. I'm passionate about Cloud and AI , and I love using my skills to solve real-world problems.
+ I'm **Ganesh Chikhalikar**, a Technical Lead with 6.8 Years of experience in Cloud, DevOps, DevSecOps, Development, AI, and ML Ops. I'm passionate about Cloud and AI , and I love using my skills to solve real-world problems.
 
 # 🚀 My Expertise
 
