@@ -54,7 +54,7 @@ Slack, Jira, Azure Boards, Kanban Boards, Zapier, Microsft Teams
 I have 6.7 Years of experience as a Technical Lead and have worked on several projects involving **AWS, Azure and GCP, DevOps, DevSecOps, development, AI, and ML**. I'm passionate about Cloud and AI. As a technical lead, I have led teams of  25+ developers and provided technical direction to ensure project success.
 
 
-# 👨‍💻 My Github Stats
+# ⚡️ My Github Stats
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gansoft&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10&exclude_repo=kasweb">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gansoft&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">	
@@ -77,6 +77,9 @@ You can find some of my work samples on my portfolio website.
 
 # 📧 Contact Me
 Feel free to reach out to me at gansoft2020@gmail.com or connect with me on LinkedIn.
+
+
+![](https://komarev.com/ghpvc/?username=gansoft&color=ff69b4&label=🍨_Nice_To_Meet_U!_You+are+my+visitor+No.)
 
  <p align="center">
   <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png">
