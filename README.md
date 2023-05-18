@@ -57,7 +57,6 @@ I have 6.7 Years of experience as a Technical Lead and have worked on several pr
 # 🔨 Completed Projects
 Here are some of the projects I have completed:
 
-> [Project 1 Name] - [Short Project Description]
 
 > [Project 2 Name] - [Short Project Description]
 
