@@ -82,8 +82,9 @@ Feel free to reach out to me at gansoft2020@gmail.com or connect with me on Link
 
 
  <p align="center">
-  ![](https://komarev.com/ghpvc/?username=gansoft&color=ff69b4&label=🍨_Nice_To_Meet_U!_You+are+my+visitor+No.)
   <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png">
   <img src="https://raw.githubusercontent.com/gansoft/gansoft/4a18e413c4df66de8e20cb7fbb88b749e09d5ff8/gitartwork.svg">
   </p>
+  
+  ![](https://komarev.com/ghpvc/?username=gansoft&color=ff69b4&label=🍨_Nice_To_Meet_U!_You+are+my+visitor+No.)
 
