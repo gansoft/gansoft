@@ -71,7 +71,8 @@ Here are some of the projects I have completed:
 
 # 👨‍💼 Work Samples / Repository
 You can find some of my work samples on my portfolio website.
-![](ganesh.tech) ganesh.tech
+<br/>
+[ganeshc.tech](https://ganeshc.tech)
 
 
 # 📧 Contact Me
