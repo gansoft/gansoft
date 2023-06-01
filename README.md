@@ -7,7 +7,7 @@
 <h3 align="center">Technical Lead | Cloud | DevOps | DevSecOps | AI & ML Ops</h3>
 <h1></h1>
 
-# Hi there! 👋
+# Hi there!! 👋
 
  I'm **Ganesh Chikhalikar**, a Technical Lead with 6.8 Years of experience in Cloud, DevOps, DevSecOps, Development, AI, and ML Ops. I'm passionate about Cloud and AI , and I love using my skills to solve real-world problems.
 
