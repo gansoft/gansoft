@@ -63,7 +63,7 @@ I have 6.7 Years of experience as a Technical Lead and have worked on several pr
 <img src="https://github-profile-trophy.vercel.app/?username=gansoft&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
 </p>
 
-# 🔨 Completed Projects
+# 🔨 Completed Projects.
 Here are some of the projects I have completed:
 
 
