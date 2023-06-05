@@ -51,7 +51,7 @@ Slack, Jira, Azure Boards, Kanban Boards, Zapier, Microsft Teams
 <br /> <br />
 
 # 👨‍💻 Experience
-I have 6.7 Years of experience as a Technical Lead and have worked on several projects involving **AWS, Azure and GCP, DevOps, DevSecOps, Development, AI, and ML Ops**. I'm passionate about Cloud and AI. As a technical lead, I have led teams of  25+ developers and provided technical direction to ensure project success.
+I have 6.8 Years of experience as a Technical Lead and have worked on several projects involving **AWS, Azure and GCP, DevOps, DevSecOps, Development, AI, and ML Ops**. I'm passionate about Cloud and AI. As a technical lead, I have led teams of  25+ developers and provided technical direction to ensure project success.
 
 
 # ⚡️ My Github Stats
