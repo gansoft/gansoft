@@ -9,7 +9,7 @@
 
 # <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Hi there!! 👋
 
-## I'm **Ganesh Chikhalikar**, a Technical Lead with 7 Years of experience in Cloud, DevOps, DevSecOps, Development, AI, and ML Ops. I'm passionate about Cloud and AI , and I love using my skills to solve real-world problems.
+## I'm **Ganesh Chikhalikar**, a Technical Lead with 7+ Years of experience in Cloud, DevOps, DevSecOps, Development, AI, and ML Ops. I'm passionate about Cloud and AI , and I love using my skills to solve real-world problems.
 
 # 🚀 My Expertise
 
