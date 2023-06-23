@@ -31,7 +31,7 @@
 <br /> <br />
 
 ### 🌐 Development 
- - Microservices, .NET Core, LINQ, Entity Framework, React, HTML, CSS, JavaScript, JQuery, Node.js, Python 
+ - Microservices, .NET Core, LINQ, Entity Framework, React, HTML, CSS, JavaScript, JQuery, Node.js, Python, Electron
 <br /> <br />
 
 ### 🧊 Database 
