@@ -51,7 +51,7 @@ Slack, Jira, Azure Boards, Kanban Boards, Zapier, Microsft Teams.
 <br /> <br />
 
 ### 🎨 UI / UX Design
-Figma, Photoshop, Canva.
+Figma, Photoshop, Canva, After Effects.
 <br /> <br />
 
 # 👨‍💻 Experience
