@@ -47,7 +47,7 @@
 <br /> <br />
 
 ### 📅 Task Management
-Slack, Jira, Azure Boards, Kanban Boards, Zapier, Microsft Teams.
+- Slack, Jira, Azure Boards, Kanban Boards, Zapier, Microsft Teams.
 <br /> <br />
 
 ### 🎨 UI / UX Design
