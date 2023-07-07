@@ -80,7 +80,7 @@ You can find some of my work samples on my portfolio website.
 
 
 # 📧 Contact Me
-Feel free to reach out to me at gansoft2020@gmail.com or connect with me on LinkedIn.
+Feel free to reach out to me at gansoft2020@gmail.com or connect with me on LinkedIn.com.
 
 
 
