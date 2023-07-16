@@ -51,7 +51,7 @@
 <br /> <br />
 
 ### 🎨 UI / UX Design
-Figma, Photoshop, Canva, After Effects, Adobe Premiere Pro.
+Figma, Adobe Photoshop, Canva, After Effects, Adobe Premiere Pro.
 <br /> <br />
 
 # 👨‍💻 Experience
