@@ -15,7 +15,7 @@
 
 
 ### ☁ Cloud Technologies 
-- AWS, Azure, Google Cloud (GCP)
+- AWS cloud, Azure, Google Cloud (GCP)
 <br /> <br />
 
 ### ☸Container / Orchestration 
