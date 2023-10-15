@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="210"/>
 </p>
 
 <h1 align="center">Ganesh Chikhalikar</h1>
