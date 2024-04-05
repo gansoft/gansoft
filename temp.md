@@ -14,5 +14,5 @@ Nasiullha Chaudhari is a skilled Devops engineer, having experience in Automatin
 - Good Understanding of infrastructure and networking concepts like Firewalls, IP Addressing, DNS, etc
 - Positive attitude, strong work ethic, and ability to work in a highly collaborative team environment.
 - Self-starter, Fast learner, and a Team player with strong interpersonal skills
-- Developed shell scripts (Bash) for automating day-to-day maintenance tasks on top of that have good python scripting skills.
+- Developed shell scripts (Bash) for automating day-to-day maintenance tasks on top of that have good python scripting skill
 - Proficient in communication and project management with good experience in resolving clients' issues
